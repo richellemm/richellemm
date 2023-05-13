@@ -2,7 +2,7 @@
 
 ### I'm studying to become a Front-End Developer 💻
 
- #### Página em Construção 🏗️
+ #### Work in Progress 🏗️
  
  <div>
    <a href="https://github.com/richellemm">
