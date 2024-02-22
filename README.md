@@ -1,7 +1,5 @@
 ## Welcome to my GitHub! 😁
 
-### I'm studying to become a Front-End Developer 💻
-
  #### Work in Progress 🏗️
  
 
